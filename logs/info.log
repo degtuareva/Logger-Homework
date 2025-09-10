@@ -1,0 +1,8 @@
+01:32:28.898 [main] INFO  org.example.LoggingApplication - Starting LoggingApplication using Java 17.0.2 with PID 24644 (D:\repo\java\Logger-Homework\build\classes\java\main started by TUF GAMING in D:\repo\java\Logger-Homework)
+01:32:28.900 [main] INFO  org.example.LoggingApplication - No active profile set, falling back to 1 default profile: "default"
+01:32:29.205 [main] INFO  org.example.LoggingApplication - Started LoggingApplication in 0.489 seconds (process running for 1.021)
+01:32:29.207 [main] INFO  org.example.LoggingApplication - test 2 - info level
+01:33:18.953 [main] INFO  org.example.LoggingApplication - Starting LoggingApplication using Java 21.0.6 with PID 32324 (D:\repo\java\Logger-Homework\build\classes\java\main started by TUF GAMING in D:\repo\java\Logger-Homework)
+01:33:18.955 [main] INFO  org.example.LoggingApplication - No active profile set, falling back to 1 default profile: "default"
+01:33:19.276 [main] INFO  org.example.LoggingApplication - Started LoggingApplication in 0.515 seconds (process running for 0.874)
+01:33:19.278 [main] INFO  org.example.LoggingApplication - test 2 - info level
